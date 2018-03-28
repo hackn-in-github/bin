@@ -11,11 +11,11 @@
 #~/Downloads/Photo /Photo
 #~/Downloads/アニメ /ビデオ/Anime
 cp -Ppurv ~/tilda /media/tooru/Target/tooru/
-cp -Ppurv ~/TeX /media/tooru/Target/tooru/
-cp -Ppurv ~/Web /media/tooru/Target/tooru/
-cp -Ppurv ~/bin /media/tooru/Target/tooru/
-cp -Ppurv ~/org /media/tooru/Target/tooru/
-cp -Ppurv ~/iijima /media/tooru/Target/tooru/
+cp -Ppurv ~/Documents/TeX /media/tooru/Target/tooru/
+cp -Ppurv ~/Documents/Web /media/tooru/Target/tooru/
+cp -Ppurv ~/Documents/bin /media/tooru/Target/tooru/
+cp -Ppurv ~/Documents/org /media/tooru/Target/tooru/
+cp -Ppurv ~/Documents/iijima /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/Github /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/YaTeX /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/emath /media/tooru/Target/tooru/
