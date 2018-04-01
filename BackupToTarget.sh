@@ -16,6 +16,7 @@ cp -Ppurv ~/Documents/Web /media/tooru/Target/tooru/
 cp -Ppurv ~/bin /media/tooru/Target/tooru/
 cp -Ppurv ~/Documents/org /media/tooru/Target/tooru/
 cp -Ppurv ~/Documents/iijima /media/tooru/Target/tooru/
+cp -Ppurv ~/Documents/emacs /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/Github /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/YaTeX /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/emath /media/tooru/Target/tooru/
