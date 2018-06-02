@@ -22,3 +22,4 @@ cp -Ppurv ~/Downloads/YaTeX /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/emath /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/Photo /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/アニメ/20* /media/tooru/Target/tooru/ビデオ/Anime/
+cp -Ppurv ~/Videos /media/tooru/Target/tooru/ビデオ/Movie/AV
