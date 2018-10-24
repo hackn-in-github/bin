@@ -20,6 +20,6 @@ cp -Ppurv ~/Documents/emacs /media/tooru/Target/tooru/
 #cp -Ppurv ~/Downloads/Github /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/YaTeX /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/emath /media/tooru/Target/tooru/
-cp -Ppurv ~/Downloads/Photo /media/tooru/Target/tooru/
-cp -Ppurv ~/Downloads/アニメ/20* /media/tooru/Target/tooru/ビデオ/Anime/
-cp -Ppurv ~/Videos /media/tooru/Target/tooru/ビデオ/Movie/AV
+cp -Ppurv ~/Pictures/Photo /media/tooru/Target/tooru/
+cp -Ppurv ~/Videos/Amime/20* /media/tooru/Target/tooru/ビデオ/Anime/
+cp -Ppurv ~/Videos/AV /media/tooru/Target/tooru/ビデオ/Movie/AV
