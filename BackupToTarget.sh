@@ -17,6 +17,7 @@ cp -Ppurv ~/bin /media/tooru/Target/tooru/
 cp -Ppurv ~/Documents/org /media/tooru/Target/tooru/
 cp -Ppurv ~/Documents/iijima /media/tooru/Target/tooru/
 cp -Ppurv ~/Documents/emacs /media/tooru/Target/tooru/
+cp -Ppurv '/home/tooru/Documents/Python Lesson' /media/tooru/Target/tooru/
 #cp -Ppurv ~/Downloads/Github /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/YaTeX /media/tooru/Target/tooru/
 cp -Ppurv ~/Downloads/emath /media/tooru/Target/tooru/
@@ -30,6 +31,7 @@ cp -Ppurv ~/bin "/media/tooru/Source 2TB/tooru/"
 cp -Ppurv ~/Documents/org "/media/tooru/Source 2TB/tooru/"
 cp -Ppurv ~/Documents/iijima "/media/tooru/Source 2TB/tooru/"
 cp -Ppurv ~/Documents/emacs "/media/tooru/Source 2TB/tooru/"
+cp -Ppurv '/home/tooru/Documents/Python Lesson' "/media/tooru/Source 2TB/tooru/"
 #cp -Ppurv ~/Downloads/Github "/media/tooru/Source 2TB/tooru/"
 cp -Ppurv ~/Downloads/YaTeX "/media/tooru/Source 2TB/tooru/"
 cp -Ppurv ~/Downloads/emath "/media/tooru/Source 2TB/tooru/"
@@ -43,6 +45,7 @@ cp -Ppurv ~/bin "/media/tooru/Source/tooru/"
 cp -Ppurv ~/Documents/org "/media/tooru/Source/tooru/"
 cp -Ppurv ~/Documents/iijima "/media/tooru/Source/tooru/"
 cp -Ppurv ~/Documents/emacs "/media/tooru/Source/tooru/"
+cp -Ppurv '/home/tooru/Documents/Python Lesson' /media/tooru/Source/tooru/
 #cp -Ppurv ~/Downloads/Github "/media/tooru/Source/tooru/"
 cp -Ppurv ~/Downloads/YaTeX "/media/tooru/Source/tooru/"
 cp -Ppurv ~/Downloads/emath "/media/tooru/Source/tooru/"
